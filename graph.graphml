@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="node" attr.name="prob" attr.type="long"/>
+<key id="d2" for="node" attr.name="name" attr.type="string"/>
+<key id="d1" for="node" attr.name="pgn" attr.type="string"/>
+<key id="d0" for="node" attr.name="prob" attr.type="double"/>
+<graph edgedefault="directed"><node id="1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.Nxe5">
+  <data key="d0">0.07838462979614938</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.Nxe5</data>
+  <data key="d2">Bc5 4.Nxe5 0.07</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3">
+  <data key="d0">0.22404284226724847</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3</data>
+  <data key="d2">Nf6 5.d3 0.22</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nf6 3.Nxe5">
+  <data key="d0">0.12441783995941877</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nf6 3.Nxe5</data>
+  <data key="d2">Nf6 3.Nxe5 0.12</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nc6 3.Bb5">
+  <data key="d0">0.7165216110647266</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5</data>
+  <data key="d2">Nc6 3.Bb5 0.71</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.c3">
+  <data key="d0">0.1054363522016395</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.c3</data>
+  <data key="d2">d6 4.c3 0.10</data>
+</node>
+<node id="1.e4 e5 2.Nf3">
+  <data key="d3">1</data>
+  <data key="d1">1.e4 e5 2.Nf3</data>
+  <data key="d2">e5 2.Nf3 1</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3">
+  <data key="d0">0.06564433429568321</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3</data>
+  <data key="d2">d6 4.Nf3 0.06</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O">
+  <data key="d0">0.12601624595112276</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O</data>
+  <data key="d2">Nf6 4.O-O 0.12</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Be7 7.a4">
+  <data key="d0">0.05932885418210943</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Be7 7.a4</data>
+  <data key="d2">Be7 7.a4 0.05</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4">
+  <data key="d0">0.053565077772599064</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4</data>
+  <data key="d2">Nxe4 5.d4 0.05</data>
+</node>
+<node id="1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4">
+  <data key="d0">0.07379033624966592</data>
+  <data key="d1">1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4</data>
+  <data key="d2">exd4 4.Qxd4 0.07</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Bd3">
+  <data key="d0">0.06505807098157002</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Bd3</data>
+  <data key="d2">Nxe4 5.Bd3 0.06</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4">
+  <data key="d0">0.3104532247686241</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4</data>
+  <data key="d2">a6 4.Ba4 0.31</data>
+</node>
+<node id="1.e4 e5 2.Nf3 d6 3.d4">
+  <data key="d0">0.10891770560140641</data>
+  <data key="d1">1.e4 e5 2.Nf3 d6 3.d4</data>
+  <data key="d2">d6 3.d4 0.10</data>
+</node>
+<node id="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3">
+  <data key="d0">0.13416140747399716</data>
+  <data key="d1">1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3</data>
+  <data key="d2">b5 6.Bb3 0.13</data>
+</node>
+<edge source="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3" target="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3"/>
+<edge source="1.e4 e5 2.Nf3 Nf6 3.Nxe5" target="1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3"/>
+<edge source="1.e4 e5 2.Nf3 Nc6 3.Bb5" target="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4"/>
+<edge source="1.e4 e5 2.Nf3 Nc6 3.Bb5" target="1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O"/>
+<edge source="1.e4 e5 2.Nf3 Nc6 3.Bb5" target="1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.c3"/>
+<edge source="1.e4 e5 2.Nf3 Nc6 3.Bb5" target="1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.Nxe5"/>
+<edge source="1.e4 e5 2.Nf3" target="1.e4 e5 2.Nf3 Nc6 3.Bb5"/>
+<edge source="1.e4 e5 2.Nf3" target="1.e4 e5 2.Nf3 Nf6 3.Nxe5"/>
+<edge source="1.e4 e5 2.Nf3" target="1.e4 e5 2.Nf3 d6 3.d4"/>
+<edge source="1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3" target="1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Bd3"/>
+<edge source="1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O" target="1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4"/>
+<edge source="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4" target="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3"/>
+<edge source="1.e4 e5 2.Nf3 d6 3.d4" target="1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4"/>
+<edge source="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3" target="1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Be7 7.a4"/>
+</graph></graphml>
